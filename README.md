@@ -1,0 +1,1 @@
+Solution day 3 Dumbways assignment task
